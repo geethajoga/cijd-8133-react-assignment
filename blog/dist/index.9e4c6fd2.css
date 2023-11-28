@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ebf2ff;
+  font-family: Poppins, sans-serif;
+}
+
+.card-img-top {
+  width: auto;
+  height: 300px;
+  padding: 15px;
+}
+
+.place__holder__image {
+  width: 100%;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
